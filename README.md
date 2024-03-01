@@ -11,11 +11,12 @@
 
 - 📫 How to reach me **natrajadepua@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TRSqJ_29BBXpAOiwEfvhFNjWPFEUKL0b/view?usp=sharing](https://drive.google.com/file/d/1TRSqJ_29BBXpAOiwEfvhFNjWPFEUKL0b/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saikrishnareddyragula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajashekar reddy kommula" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/natraj-adepu
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajashekar reddy kommula" height="30" width="40" /></a>
 
 </p>
 
@@ -32,7 +33,7 @@
 
 Hello Viewer !
 
-I'm actively😥 looking for intenship and full-time opportunities😁 in full stack👨🏻‍💻 development starting from December 2023. I have significant coursework📚 in these fields and have a strong passion😍 for them.
+I'm actively😥 looking for  full-time opportunities😁 in full stack👨🏻‍💻 development starting from December 2023. I have significant coursework📚 in these fields and have a strong passion😍 for them.
 
 <b>Short Intro for  me :</b>
 
@@ -42,13 +43,11 @@ I am a programmer👨🏻‍💻 and more into full stack development but yeah, 
 
 Also, if you wanna know my work so far as a programmer:
 
-🎯 Data Structures and Algorithms in geeksforgeeks certified
-
 <b>Skills 👻:</b><br><br>
 <b>Languages:</b> C, C++, Java<br>
 <b>Operating Systems:</b> Linux, Windows, macOS<br>
 <b>Databases:</b> MySQL, MongoDB, PostgreSQL<br>
-<b>Web Technologies:</b> HTML5, CSS3, PHP, Bootstrap, Rest API, Apache Kafka<br>
-<b>Frameworks:</b> React.js,Angular<br>
+<b>Web Technologies:</b> HTML5, CSS3, Javascript, Microservices Architecture, Bootstrap, Rest API, Apache Kafka<br>
+<b>Frameworks:</b> Spring boot, React.js<br>
 <b>Deployment:</b> Docker, Kubernetes<br>
-<b>Tools:</b> Git, Eclipse, Visual Studio Code, JIRA, Postman, Junit.<br>
+<b>Tools:</b> Git, Intellij idea, Visual Studio Code, JIRA, Postman, Junit.<br>
